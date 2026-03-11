@@ -27,6 +27,7 @@ You will need:
 - A raspberry Pi Pico with header pins and female mounting pins. If you are comfortable soldering the header pins yourself you can save a dollar and get a non-presoldered one. But it is designed to accommodate a pre-soldered Pico
 - 9 MX switches. These are the standard switches that are found in mechanical keyboards.
 - A rotary encoder.
+- A 5 Pin 90 degree header and Dupont connectors to connect the rotary encoder to the main board. All other wiring is inside of the main board and does not need to be done by hand.
 - Some small Metric socket cap screws and matching inserts. I used M2.5.
 - A 3d printer. Almost any printer will work to make the case. To print the keycaps is a little more challenging, and if you are not familiar with printing with minimal bed contact it may be easier to just purchase some inexpensive keycaps.
 
