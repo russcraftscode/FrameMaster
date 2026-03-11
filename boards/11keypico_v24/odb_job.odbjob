@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2026-03-11T23:01:24Z",
+        "GenerationSoftware": {
+            "Application": "Fusion Electronics",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "11KeyPico v24"
+        },
+        "Owner": "Russ Johnson <therussjohnson@gmail.com>",
+        "Size": {
+            "X": 100,
+            "Y": 80
+        }
+    }
+}
